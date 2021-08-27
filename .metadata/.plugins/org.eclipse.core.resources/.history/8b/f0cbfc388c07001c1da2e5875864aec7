@@ -15,7 +15,7 @@ public class Assignment1 {//class
 		
 		Scanner input = new Scanner(System.in);
 		
-	
+		
 		System.out.println("Enter the competitor's name: ");
 		name= input.nextLine();//name input
 		
